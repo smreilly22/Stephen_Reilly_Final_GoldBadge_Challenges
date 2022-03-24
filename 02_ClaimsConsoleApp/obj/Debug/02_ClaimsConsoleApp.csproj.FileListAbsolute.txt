@@ -1,0 +1,17 @@
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\02_ClaimsConsoleApp.exe.config
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\02_ClaimsConsoleApp.exe
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\02_ClaimsConsoleApp.pdb
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Claims_Challenge.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Claims_Challenge.pdb
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\obj\Debug\02_ClaimsConsoleApp.csproj.AssemblyReference.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\obj\Debug\02_ClaimsConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\obj\Debug\02_ClaimsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\obj\Debug\02_ClaimsConsoleApp.csproj.CopyComplete
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\obj\Debug\02_ClaimsConsoleApp.exe
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\02_ClaimsConsoleApp\obj\Debug\02_ClaimsConsoleApp.pdb

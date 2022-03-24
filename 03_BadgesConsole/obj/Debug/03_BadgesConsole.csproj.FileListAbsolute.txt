@@ -1,0 +1,17 @@
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\03_BadgesConsole.exe.config
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\03_BadgesConsole.exe
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\03_BadgesConsole.pdb
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\03_Badges.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\03_Badges.pdb
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\obj\Debug\03_BadgesConsole.csproj.AssemblyReference.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\obj\Debug\03_BadgesConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\obj\Debug\03_BadgesConsole.csproj.CoreCompileInputs.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\obj\Debug\03_BadgesConsole.csproj.CopyComplete
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\obj\Debug\03_BadgesConsole.exe
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\03_BadgesConsole\obj\Debug\03_BadgesConsole.pdb

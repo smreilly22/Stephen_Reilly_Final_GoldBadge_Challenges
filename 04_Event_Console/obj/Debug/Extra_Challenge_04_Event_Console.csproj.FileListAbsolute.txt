@@ -1,0 +1,17 @@
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\04_Event_Console.exe.config
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\04_Event_Console.exe
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\04_Event_Console.pdb
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\UnitTestProject1.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\UnitTestProject1.pdb
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\obj\Debug\Extra_Challenge_04_Event_Console.csproj.AssemblyReference.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\obj\Debug\Extra_Challenge_04_Event_Console.csproj.SuggestedBindingRedirects.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\obj\Debug\Extra_Challenge_04_Event_Console.csproj.CoreCompileInputs.cache
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\obj\Debug\Extra_Challenge_04_Event_Console.csproj.CopyComplete
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\obj\Debug\04_Event_Console.exe
+C:\Users\bjrei\Desktop\ElevenFiftyProjects\DotNetProj\Final_Challenges_01\04_Event_Console\obj\Debug\04_Event_Console.pdb
